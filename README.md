@@ -8,4 +8,4 @@
 - Section from Seoul to Busan was analyzed since this section is where most passengers board and alight.
 - KTX stops for each stop for around 2 minutes.
 - Dataset for Tuesday, August 6th 2024 was used from [LetsKorail](https://www.letskorail.com/ebizbf/EbizbfForeign_pr16100.do?gubun=1) website.
-- SRT was NOT analyzed since it is not operated by KORAIL.
+- SRT was NOT analyzed since it is NOT operated by KORAIL.
