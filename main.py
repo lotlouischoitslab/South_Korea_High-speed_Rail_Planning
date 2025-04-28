@@ -14,14 +14,22 @@ mandatory_stops = {'Seoul', 'Daejeon', 'Dongdaegu', 'Busan'}
 # Optional stops
 optional_stops = [s for s in stations if s not in mandatory_stops]
 
-# Mapping station name to spacing (be careful with units)
+# Mapping station name to spacing
 station_spacing = dict(zip(hsr_location_data['Station'], hsr_location_data['Station Spacing (km)']))
 
 # Speed and dwell time assumptions
 cruise_speed = 300  # km/h
 dwell_time_per_stop = 5  # minutes
+accel_decel_penalty_min = 5  # minutes per stop (acceleration and deceleration time)
 
-# Enumerate all combinations of optional stops (stop or skip)
+# Function to get speed limit per segment
+def get_speed_limit(from_station, to_station):
+    if (from_station == 'Seoul' and to_station == 'Gwangmyeong') or (from_station == 'Gwangmyeong' and to_station == 'Seoul'):
+        return 100  # km/h
+    else:
+        return cruise_speed  # km/h
+
+# Enumerate all combinations
 all_stop_plans = list(itertools.product([0, 1], repeat=len(optional_stops)))
 
 results = []
@@ -32,16 +40,13 @@ for plan in all_stop_plans:
         if choice == 1:
             stops.append(optional_stops[idx])
     
-    # Sort stops based on original order
     stops_ordered = [s for s in stations if s in stops]
     
-    # Compute total travel time
     total_time = 0.0  # hours
     for i in range(len(stops_ordered) - 1):
         from_station = stops_ordered[i]
         to_station = stops_ordered[i+1]
         
-        # Sum distances between from_station and to_station
         idx_from = stations.index(from_station)
         idx_to = stations.index(to_station)
         
@@ -50,22 +55,31 @@ for plan in all_stop_plans:
         
         distance = sum([station_spacing[stations[j]] for j in range(idx_from+1, idx_to+1)])
         
-        time_segment = distance / cruise_speed
+        speed = get_speed_limit(from_station, to_station)
+        
+        time_segment = distance / speed
         total_time += time_segment
     
-    # Add dwell times (except Seoul, no dwell at start)
-    total_dwell = dwell_time_per_stop * (len(stops_ordered) - 1) / 60  # minutes to hours
-    total_time += total_dwell
+    # Add dwell times (except first station)
+    total_dwell_min = dwell_time_per_stop * (len(stops_ordered) - 1)
+    # Add acceleration/deceleration penalties (except first station)
+    total_accel_decel_min = accel_decel_penalty_min * (len(stops_ordered) - 1)
+    
+    total_time += (total_dwell_min + total_accel_decel_min) / 60  # convert minutes to hours
+    
+    total_time_hours = int(total_time)
+    total_time_minutes = int(round((total_time - total_time_hours) * 60))
     
     results.append({
         'stop_plan': stops_ordered,
         'total_time_hours': total_time,
-        'total_time_min': total_time * 60  # convert to minutes
+        'total_time_min': total_time * 60,
+        'formatted_time': f"{total_time_hours} hr {total_time_minutes} min"
     })
 
-# Sort results by travel time
+# Sort by travel time
 results_sorted = sorted(results, key=lambda x: x['total_time_min'])
 
 # Show best few
-for r in results_sorted[:5]:
-    print(f"Stops: {r['stop_plan']} | Total Time: {r['total_time_hours']:.2f} hours | {r['total_time_min']:.2f} minutes")
+for r in results_sorted:
+    print(f"Stops: {r['stop_plan']} | Total Time: {r['formatted_time']}")
