@@ -120,3 +120,31 @@ for r in results_sorted:
 df = pd.DataFrame(results_sorted)
 df.to_csv('optimized_hsr_stop_plans.csv', index=False)
 print("\nResults exported to 'optimized_hsr_stop_plans.csv'.")
+
+
+
+
+
+
+# First, add number_of_stops to each result
+for r in results_sorted:
+    r['number_of_stops'] = len(r['stop_plan']) - 2  # exclude Seoul and Busan
+
+# Sort by number_of_stops ascending, then total_time ascending
+results_sorted = sorted(results_sorted, key=lambda x: (x['number_of_stops'], x['total_time_min']))
+
+# Pareto optimal selection
+pareto_optimal = []
+best_time_so_far = float('inf')
+
+for r in results_sorted:
+    if r['total_time_min'] < best_time_so_far:
+        pareto_optimal.append(r)
+        best_time_so_far = r['total_time_min']
+
+# Now 'pareto_optimal' contains the best tradeoffs between number of stops and time
+
+# Print Pareto Optimal Plans
+print("\nPareto Optimal Stop Plans:")
+for r in pareto_optimal:
+    print(f"Stops: {r['stop_plan']} | Stops: {r['number_of_stops']} | Total Time: {r['formatted_time']}")
