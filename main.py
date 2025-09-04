@@ -19,7 +19,7 @@ optional_stops = [s for s in stations if s not in mandatory_stops]
 station_spacing = dict(zip(hsr_location_data['Station'], hsr_location_data['Station Spacing (km)']))
 
 # Speed and penalties assumptions
-cruise_speed = 300  # km/h assumed outside slow zones
+cruise_speed = 305  # km/h assumed outside slow zones
 accel_decel_penalty_min = 5  # minutes per intermediate stop
 slow_zone_penalty_per_city_min = 10  # minutes for slow passage through Daejeon and Dongdaegu
 
