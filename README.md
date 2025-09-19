@@ -1,4 +1,4 @@
-﻿## South Korea High-speed Rail Planning | 한국고속철도 교통계획
+﻿## South Korea High-speed Rail Simulator | 한국고속철도 시뮬레이터
 
 ## Contributors:
 - **Louis Sungwoo Cho | 조성우**

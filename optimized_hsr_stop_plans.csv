@@ -1,65 +1,65 @@
 stop_plan,total_time_hours,total_time_min,formatted_time
-"['Seoul', 'Daejeon', 'Dongdaegu', 'Busan']",2.258,135.48,2 hr 15 min
-"['Seoul', 'Daejeon', 'Dongdaegu', 'Ulsan (Tongdosa)', 'Busan']",2.3746666666666667,142.48,2 hr 22 min
-"['Seoul', 'Daejeon', 'Gimcheon-Gumi', 'Dongdaegu', 'Busan']",2.3746666666666667,142.48,2 hr 22 min
-"['Seoul', 'Osong', 'Daejeon', 'Dongdaegu', 'Busan']",2.3746666666666667,142.48,2 hr 22 min
-"['Seoul', 'Cheonan-Asan', 'Daejeon', 'Dongdaegu', 'Busan']",2.3746666666666667,142.48,2 hr 22 min
-"['Seoul', 'Gwangmyeong', 'Daejeon', 'Dongdaegu', 'Busan']",2.3746666666666667,142.48,2 hr 22 min
-"['Seoul', 'Daejeon', 'Dongdaegu', 'Gyeongju', 'Busan']",2.374666666666667,142.48000000000002,2 hr 22 min
-"['Seoul', 'Daejeon', 'Dongdaegu', 'Gyeongju', 'Ulsan (Tongdosa)', 'Busan']",2.491333333333334,149.48000000000002,2 hr 29 min
-"['Seoul', 'Daejeon', 'Gimcheon-Gumi', 'Dongdaegu', 'Ulsan (Tongdosa)', 'Busan']",2.4913333333333334,149.48000000000002,2 hr 29 min
-"['Seoul', 'Daejeon', 'Gimcheon-Gumi', 'Dongdaegu', 'Gyeongju', 'Busan']",2.491333333333334,149.48000000000002,2 hr 29 min
-"['Seoul', 'Osong', 'Daejeon', 'Dongdaegu', 'Ulsan (Tongdosa)', 'Busan']",2.4913333333333334,149.48000000000002,2 hr 29 min
-"['Seoul', 'Osong', 'Daejeon', 'Dongdaegu', 'Gyeongju', 'Busan']",2.491333333333334,149.48000000000002,2 hr 29 min
-"['Seoul', 'Osong', 'Daejeon', 'Gimcheon-Gumi', 'Dongdaegu', 'Busan']",2.4913333333333334,149.48000000000002,2 hr 29 min
-"['Seoul', 'Cheonan-Asan', 'Daejeon', 'Dongdaegu', 'Ulsan (Tongdosa)', 'Busan']",2.4913333333333334,149.48000000000002,2 hr 29 min
-"['Seoul', 'Cheonan-Asan', 'Daejeon', 'Dongdaegu', 'Gyeongju', 'Busan']",2.4913333333333334,149.48000000000002,2 hr 29 min
-"['Seoul', 'Cheonan-Asan', 'Daejeon', 'Gimcheon-Gumi', 'Dongdaegu', 'Busan']",2.4913333333333334,149.48000000000002,2 hr 29 min
-"['Seoul', 'Cheonan-Asan', 'Osong', 'Daejeon', 'Dongdaegu', 'Busan']",2.4913333333333334,149.48000000000002,2 hr 29 min
-"['Seoul', 'Gwangmyeong', 'Daejeon', 'Dongdaegu', 'Ulsan (Tongdosa)', 'Busan']",2.4913333333333334,149.48000000000002,2 hr 29 min
-"['Seoul', 'Gwangmyeong', 'Daejeon', 'Dongdaegu', 'Gyeongju', 'Busan']",2.491333333333334,149.48000000000002,2 hr 29 min
-"['Seoul', 'Gwangmyeong', 'Daejeon', 'Gimcheon-Gumi', 'Dongdaegu', 'Busan']",2.4913333333333334,149.48000000000002,2 hr 29 min
-"['Seoul', 'Gwangmyeong', 'Osong', 'Daejeon', 'Dongdaegu', 'Busan']",2.4913333333333334,149.48000000000002,2 hr 29 min
-"['Seoul', 'Gwangmyeong', 'Cheonan-Asan', 'Daejeon', 'Dongdaegu', 'Busan']",2.4913333333333334,149.48000000000002,2 hr 29 min
-"['Seoul', 'Daejeon', 'Gimcheon-Gumi', 'Dongdaegu', 'Gyeongju', 'Ulsan (Tongdosa)', 'Busan']",2.6080000000000005,156.48000000000002,2 hr 36 min
-"['Seoul', 'Osong', 'Daejeon', 'Dongdaegu', 'Gyeongju', 'Ulsan (Tongdosa)', 'Busan']",2.6080000000000005,156.48000000000002,2 hr 36 min
-"['Seoul', 'Osong', 'Daejeon', 'Gimcheon-Gumi', 'Dongdaegu', 'Ulsan (Tongdosa)', 'Busan']",2.608,156.48000000000002,2 hr 36 min
-"['Seoul', 'Osong', 'Daejeon', 'Gimcheon-Gumi', 'Dongdaegu', 'Gyeongju', 'Busan']",2.6080000000000005,156.48000000000002,2 hr 36 min
-"['Seoul', 'Cheonan-Asan', 'Daejeon', 'Dongdaegu', 'Gyeongju', 'Ulsan (Tongdosa)', 'Busan']",2.608,156.48000000000002,2 hr 36 min
-"['Seoul', 'Cheonan-Asan', 'Daejeon', 'Gimcheon-Gumi', 'Dongdaegu', 'Ulsan (Tongdosa)', 'Busan']",2.608,156.48000000000002,2 hr 36 min
-"['Seoul', 'Cheonan-Asan', 'Daejeon', 'Gimcheon-Gumi', 'Dongdaegu', 'Gyeongju', 'Busan']",2.608,156.48000000000002,2 hr 36 min
-"['Seoul', 'Cheonan-Asan', 'Osong', 'Daejeon', 'Dongdaegu', 'Ulsan (Tongdosa)', 'Busan']",2.608,156.48000000000002,2 hr 36 min
-"['Seoul', 'Cheonan-Asan', 'Osong', 'Daejeon', 'Dongdaegu', 'Gyeongju', 'Busan']",2.6080000000000005,156.48000000000002,2 hr 36 min
-"['Seoul', 'Cheonan-Asan', 'Osong', 'Daejeon', 'Gimcheon-Gumi', 'Dongdaegu', 'Busan']",2.608,156.48000000000002,2 hr 36 min
-"['Seoul', 'Gwangmyeong', 'Daejeon', 'Dongdaegu', 'Gyeongju', 'Ulsan (Tongdosa)', 'Busan']",2.6080000000000005,156.48000000000002,2 hr 36 min
-"['Seoul', 'Gwangmyeong', 'Daejeon', 'Gimcheon-Gumi', 'Dongdaegu', 'Ulsan (Tongdosa)', 'Busan']",2.608,156.48000000000002,2 hr 36 min
-"['Seoul', 'Gwangmyeong', 'Daejeon', 'Gimcheon-Gumi', 'Dongdaegu', 'Gyeongju', 'Busan']",2.6080000000000005,156.48000000000002,2 hr 36 min
-"['Seoul', 'Gwangmyeong', 'Osong', 'Daejeon', 'Dongdaegu', 'Ulsan (Tongdosa)', 'Busan']",2.608,156.48000000000002,2 hr 36 min
-"['Seoul', 'Gwangmyeong', 'Osong', 'Daejeon', 'Dongdaegu', 'Gyeongju', 'Busan']",2.608,156.48000000000002,2 hr 36 min
-"['Seoul', 'Gwangmyeong', 'Osong', 'Daejeon', 'Gimcheon-Gumi', 'Dongdaegu', 'Busan']",2.608,156.48000000000002,2 hr 36 min
-"['Seoul', 'Gwangmyeong', 'Cheonan-Asan', 'Daejeon', 'Dongdaegu', 'Ulsan (Tongdosa)', 'Busan']",2.608,156.48000000000002,2 hr 36 min
-"['Seoul', 'Gwangmyeong', 'Cheonan-Asan', 'Daejeon', 'Dongdaegu', 'Gyeongju', 'Busan']",2.608,156.48000000000002,2 hr 36 min
-"['Seoul', 'Gwangmyeong', 'Cheonan-Asan', 'Daejeon', 'Gimcheon-Gumi', 'Dongdaegu', 'Busan']",2.608,156.48000000000002,2 hr 36 min
-"['Seoul', 'Gwangmyeong', 'Cheonan-Asan', 'Osong', 'Daejeon', 'Dongdaegu', 'Busan']",2.608,156.48000000000002,2 hr 36 min
-"['Seoul', 'Cheonan-Asan', 'Daejeon', 'Gimcheon-Gumi', 'Dongdaegu', 'Gyeongju', 'Ulsan (Tongdosa)', 'Busan']",2.724666666666667,163.48000000000002,2 hr 43 min
-"['Seoul', 'Cheonan-Asan', 'Osong', 'Daejeon', 'Gimcheon-Gumi', 'Dongdaegu', 'Ulsan (Tongdosa)', 'Busan']",2.724666666666667,163.48000000000002,2 hr 43 min
-"['Seoul', 'Cheonan-Asan', 'Osong', 'Daejeon', 'Gimcheon-Gumi', 'Dongdaegu', 'Gyeongju', 'Busan']",2.724666666666667,163.48000000000002,2 hr 43 min
-"['Seoul', 'Gwangmyeong', 'Osong', 'Daejeon', 'Dongdaegu', 'Gyeongju', 'Ulsan (Tongdosa)', 'Busan']",2.724666666666667,163.48000000000002,2 hr 43 min
-"['Seoul', 'Gwangmyeong', 'Osong', 'Daejeon', 'Gimcheon-Gumi', 'Dongdaegu', 'Ulsan (Tongdosa)', 'Busan']",2.724666666666667,163.48000000000002,2 hr 43 min
-"['Seoul', 'Gwangmyeong', 'Osong', 'Daejeon', 'Gimcheon-Gumi', 'Dongdaegu', 'Gyeongju', 'Busan']",2.724666666666667,163.48000000000002,2 hr 43 min
-"['Seoul', 'Gwangmyeong', 'Cheonan-Asan', 'Daejeon', 'Dongdaegu', 'Gyeongju', 'Ulsan (Tongdosa)', 'Busan']",2.724666666666667,163.48000000000002,2 hr 43 min
-"['Seoul', 'Gwangmyeong', 'Cheonan-Asan', 'Daejeon', 'Gimcheon-Gumi', 'Dongdaegu', 'Ulsan (Tongdosa)', 'Busan']",2.724666666666667,163.48000000000002,2 hr 43 min
-"['Seoul', 'Gwangmyeong', 'Cheonan-Asan', 'Daejeon', 'Gimcheon-Gumi', 'Dongdaegu', 'Gyeongju', 'Busan']",2.724666666666667,163.48000000000002,2 hr 43 min
-"['Seoul', 'Gwangmyeong', 'Cheonan-Asan', 'Osong', 'Daejeon', 'Dongdaegu', 'Ulsan (Tongdosa)', 'Busan']",2.724666666666667,163.48000000000002,2 hr 43 min
-"['Seoul', 'Gwangmyeong', 'Cheonan-Asan', 'Osong', 'Daejeon', 'Dongdaegu', 'Gyeongju', 'Busan']",2.724666666666667,163.48000000000002,2 hr 43 min
-"['Seoul', 'Gwangmyeong', 'Cheonan-Asan', 'Osong', 'Daejeon', 'Gimcheon-Gumi', 'Dongdaegu', 'Busan']",2.724666666666667,163.48000000000002,2 hr 43 min
-"['Seoul', 'Osong', 'Daejeon', 'Gimcheon-Gumi', 'Dongdaegu', 'Gyeongju', 'Ulsan (Tongdosa)', 'Busan']",2.7246666666666672,163.48000000000005,2 hr 43 min
-"['Seoul', 'Cheonan-Asan', 'Osong', 'Daejeon', 'Dongdaegu', 'Gyeongju', 'Ulsan (Tongdosa)', 'Busan']",2.7246666666666672,163.48000000000005,2 hr 43 min
-"['Seoul', 'Gwangmyeong', 'Daejeon', 'Gimcheon-Gumi', 'Dongdaegu', 'Gyeongju', 'Ulsan (Tongdosa)', 'Busan']",2.7246666666666672,163.48000000000005,2 hr 43 min
-"['Seoul', 'Gwangmyeong', 'Osong', 'Daejeon', 'Gimcheon-Gumi', 'Dongdaegu', 'Gyeongju', 'Ulsan (Tongdosa)', 'Busan']",2.8413333333333335,170.48000000000002,2 hr 50 min
-"['Seoul', 'Gwangmyeong', 'Cheonan-Asan', 'Daejeon', 'Gimcheon-Gumi', 'Dongdaegu', 'Gyeongju', 'Ulsan (Tongdosa)', 'Busan']",2.8413333333333335,170.48000000000002,2 hr 50 min
-"['Seoul', 'Gwangmyeong', 'Cheonan-Asan', 'Osong', 'Daejeon', 'Gimcheon-Gumi', 'Dongdaegu', 'Ulsan (Tongdosa)', 'Busan']",2.8413333333333335,170.48000000000002,2 hr 50 min
-"['Seoul', 'Cheonan-Asan', 'Osong', 'Daejeon', 'Gimcheon-Gumi', 'Dongdaegu', 'Gyeongju', 'Ulsan (Tongdosa)', 'Busan']",2.841333333333334,170.48000000000005,2 hr 50 min
-"['Seoul', 'Gwangmyeong', 'Cheonan-Asan', 'Osong', 'Daejeon', 'Dongdaegu', 'Gyeongju', 'Ulsan (Tongdosa)', 'Busan']",2.841333333333334,170.48000000000005,2 hr 50 min
-"['Seoul', 'Gwangmyeong', 'Cheonan-Asan', 'Osong', 'Daejeon', 'Gimcheon-Gumi', 'Dongdaegu', 'Gyeongju', 'Busan']",2.841333333333334,170.48000000000005,2 hr 50 min
-"['Seoul', 'Gwangmyeong', 'Cheonan-Asan', 'Osong', 'Daejeon', 'Gimcheon-Gumi', 'Dongdaegu', 'Gyeongju', 'Ulsan (Tongdosa)', 'Busan']",2.9580000000000006,177.48000000000005,2 hr 57 min
+"['Seoul', 'Daejeon', 'Dongdaegu', 'Busan']",2.235191256830601,134.11147540983606,2 hr 14 min
+"['Seoul', 'Daejeon', 'Dongdaegu', 'Ulsan (Tongdosa)', 'Busan']",2.351857923497268,141.11147540983606,2 hr 21 min
+"['Seoul', 'Daejeon', 'Gimcheon-Gumi', 'Dongdaegu', 'Busan']",2.351857923497268,141.11147540983606,2 hr 21 min
+"['Seoul', 'Osong', 'Daejeon', 'Dongdaegu', 'Busan']",2.351857923497268,141.11147540983606,2 hr 21 min
+"['Seoul', 'Cheonan-Asan', 'Daejeon', 'Dongdaegu', 'Busan']",2.351857923497268,141.11147540983606,2 hr 21 min
+"['Seoul', 'Gwangmyeong', 'Daejeon', 'Dongdaegu', 'Busan']",2.351857923497268,141.11147540983606,2 hr 21 min
+"['Seoul', 'Daejeon', 'Dongdaegu', 'Gyeongju', 'Busan']",2.3518579234972683,141.1114754098361,2 hr 21 min
+"['Seoul', 'Daejeon', 'Gimcheon-Gumi', 'Dongdaegu', 'Ulsan (Tongdosa)', 'Busan']",2.4685245901639346,148.11147540983606,2 hr 28 min
+"['Seoul', 'Osong', 'Daejeon', 'Dongdaegu', 'Ulsan (Tongdosa)', 'Busan']",2.4685245901639346,148.11147540983606,2 hr 28 min
+"['Seoul', 'Osong', 'Daejeon', 'Gimcheon-Gumi', 'Dongdaegu', 'Busan']",2.4685245901639346,148.11147540983606,2 hr 28 min
+"['Seoul', 'Cheonan-Asan', 'Daejeon', 'Dongdaegu', 'Ulsan (Tongdosa)', 'Busan']",2.4685245901639346,148.11147540983606,2 hr 28 min
+"['Seoul', 'Cheonan-Asan', 'Daejeon', 'Gimcheon-Gumi', 'Dongdaegu', 'Busan']",2.4685245901639346,148.11147540983606,2 hr 28 min
+"['Seoul', 'Cheonan-Asan', 'Osong', 'Daejeon', 'Dongdaegu', 'Busan']",2.4685245901639346,148.11147540983606,2 hr 28 min
+"['Seoul', 'Gwangmyeong', 'Daejeon', 'Dongdaegu', 'Ulsan (Tongdosa)', 'Busan']",2.4685245901639346,148.11147540983606,2 hr 28 min
+"['Seoul', 'Gwangmyeong', 'Daejeon', 'Gimcheon-Gumi', 'Dongdaegu', 'Busan']",2.4685245901639346,148.11147540983606,2 hr 28 min
+"['Seoul', 'Gwangmyeong', 'Osong', 'Daejeon', 'Dongdaegu', 'Busan']",2.4685245901639346,148.11147540983606,2 hr 28 min
+"['Seoul', 'Gwangmyeong', 'Cheonan-Asan', 'Daejeon', 'Dongdaegu', 'Busan']",2.4685245901639346,148.11147540983606,2 hr 28 min
+"['Seoul', 'Daejeon', 'Dongdaegu', 'Gyeongju', 'Ulsan (Tongdosa)', 'Busan']",2.468524590163935,148.1114754098361,2 hr 28 min
+"['Seoul', 'Daejeon', 'Gimcheon-Gumi', 'Dongdaegu', 'Gyeongju', 'Busan']",2.468524590163935,148.1114754098361,2 hr 28 min
+"['Seoul', 'Osong', 'Daejeon', 'Dongdaegu', 'Gyeongju', 'Busan']",2.468524590163935,148.1114754098361,2 hr 28 min
+"['Seoul', 'Cheonan-Asan', 'Daejeon', 'Dongdaegu', 'Gyeongju', 'Busan']",2.468524590163935,148.1114754098361,2 hr 28 min
+"['Seoul', 'Gwangmyeong', 'Daejeon', 'Dongdaegu', 'Gyeongju', 'Busan']",2.468524590163935,148.1114754098361,2 hr 28 min
+"['Seoul', 'Daejeon', 'Gimcheon-Gumi', 'Dongdaegu', 'Gyeongju', 'Ulsan (Tongdosa)', 'Busan']",2.5851912568306012,155.1114754098361,2 hr 35 min
+"['Seoul', 'Osong', 'Daejeon', 'Dongdaegu', 'Gyeongju', 'Ulsan (Tongdosa)', 'Busan']",2.5851912568306012,155.1114754098361,2 hr 35 min
+"['Seoul', 'Osong', 'Daejeon', 'Gimcheon-Gumi', 'Dongdaegu', 'Ulsan (Tongdosa)', 'Busan']",2.5851912568306012,155.1114754098361,2 hr 35 min
+"['Seoul', 'Osong', 'Daejeon', 'Gimcheon-Gumi', 'Dongdaegu', 'Gyeongju', 'Busan']",2.5851912568306012,155.1114754098361,2 hr 35 min
+"['Seoul', 'Cheonan-Asan', 'Daejeon', 'Dongdaegu', 'Gyeongju', 'Ulsan (Tongdosa)', 'Busan']",2.5851912568306012,155.1114754098361,2 hr 35 min
+"['Seoul', 'Cheonan-Asan', 'Daejeon', 'Gimcheon-Gumi', 'Dongdaegu', 'Ulsan (Tongdosa)', 'Busan']",2.5851912568306012,155.1114754098361,2 hr 35 min
+"['Seoul', 'Cheonan-Asan', 'Daejeon', 'Gimcheon-Gumi', 'Dongdaegu', 'Gyeongju', 'Busan']",2.5851912568306012,155.1114754098361,2 hr 35 min
+"['Seoul', 'Cheonan-Asan', 'Osong', 'Daejeon', 'Dongdaegu', 'Ulsan (Tongdosa)', 'Busan']",2.5851912568306012,155.1114754098361,2 hr 35 min
+"['Seoul', 'Cheonan-Asan', 'Osong', 'Daejeon', 'Dongdaegu', 'Gyeongju', 'Busan']",2.5851912568306012,155.1114754098361,2 hr 35 min
+"['Seoul', 'Cheonan-Asan', 'Osong', 'Daejeon', 'Gimcheon-Gumi', 'Dongdaegu', 'Busan']",2.5851912568306012,155.1114754098361,2 hr 35 min
+"['Seoul', 'Gwangmyeong', 'Daejeon', 'Dongdaegu', 'Gyeongju', 'Ulsan (Tongdosa)', 'Busan']",2.5851912568306012,155.1114754098361,2 hr 35 min
+"['Seoul', 'Gwangmyeong', 'Daejeon', 'Gimcheon-Gumi', 'Dongdaegu', 'Ulsan (Tongdosa)', 'Busan']",2.5851912568306012,155.1114754098361,2 hr 35 min
+"['Seoul', 'Gwangmyeong', 'Daejeon', 'Gimcheon-Gumi', 'Dongdaegu', 'Gyeongju', 'Busan']",2.5851912568306012,155.1114754098361,2 hr 35 min
+"['Seoul', 'Gwangmyeong', 'Osong', 'Daejeon', 'Dongdaegu', 'Ulsan (Tongdosa)', 'Busan']",2.5851912568306012,155.1114754098361,2 hr 35 min
+"['Seoul', 'Gwangmyeong', 'Osong', 'Daejeon', 'Dongdaegu', 'Gyeongju', 'Busan']",2.5851912568306012,155.1114754098361,2 hr 35 min
+"['Seoul', 'Gwangmyeong', 'Osong', 'Daejeon', 'Gimcheon-Gumi', 'Dongdaegu', 'Busan']",2.5851912568306012,155.1114754098361,2 hr 35 min
+"['Seoul', 'Gwangmyeong', 'Cheonan-Asan', 'Daejeon', 'Dongdaegu', 'Ulsan (Tongdosa)', 'Busan']",2.5851912568306012,155.1114754098361,2 hr 35 min
+"['Seoul', 'Gwangmyeong', 'Cheonan-Asan', 'Daejeon', 'Dongdaegu', 'Gyeongju', 'Busan']",2.5851912568306012,155.1114754098361,2 hr 35 min
+"['Seoul', 'Gwangmyeong', 'Cheonan-Asan', 'Daejeon', 'Gimcheon-Gumi', 'Dongdaegu', 'Busan']",2.5851912568306012,155.1114754098361,2 hr 35 min
+"['Seoul', 'Gwangmyeong', 'Cheonan-Asan', 'Osong', 'Daejeon', 'Dongdaegu', 'Busan']",2.5851912568306012,155.1114754098361,2 hr 35 min
+"['Seoul', 'Osong', 'Daejeon', 'Gimcheon-Gumi', 'Dongdaegu', 'Gyeongju', 'Ulsan (Tongdosa)', 'Busan']",2.7018579234972684,162.1114754098361,2 hr 42 min
+"['Seoul', 'Cheonan-Asan', 'Daejeon', 'Gimcheon-Gumi', 'Dongdaegu', 'Gyeongju', 'Ulsan (Tongdosa)', 'Busan']",2.7018579234972684,162.1114754098361,2 hr 42 min
+"['Seoul', 'Cheonan-Asan', 'Osong', 'Daejeon', 'Dongdaegu', 'Gyeongju', 'Ulsan (Tongdosa)', 'Busan']",2.7018579234972684,162.1114754098361,2 hr 42 min
+"['Seoul', 'Cheonan-Asan', 'Osong', 'Daejeon', 'Gimcheon-Gumi', 'Dongdaegu', 'Ulsan (Tongdosa)', 'Busan']",2.701857923497268,162.1114754098361,2 hr 42 min
+"['Seoul', 'Cheonan-Asan', 'Osong', 'Daejeon', 'Gimcheon-Gumi', 'Dongdaegu', 'Gyeongju', 'Busan']",2.7018579234972684,162.1114754098361,2 hr 42 min
+"['Seoul', 'Gwangmyeong', 'Daejeon', 'Gimcheon-Gumi', 'Dongdaegu', 'Gyeongju', 'Ulsan (Tongdosa)', 'Busan']",2.7018579234972684,162.1114754098361,2 hr 42 min
+"['Seoul', 'Gwangmyeong', 'Osong', 'Daejeon', 'Dongdaegu', 'Gyeongju', 'Ulsan (Tongdosa)', 'Busan']",2.7018579234972684,162.1114754098361,2 hr 42 min
+"['Seoul', 'Gwangmyeong', 'Osong', 'Daejeon', 'Gimcheon-Gumi', 'Dongdaegu', 'Ulsan (Tongdosa)', 'Busan']",2.701857923497268,162.1114754098361,2 hr 42 min
+"['Seoul', 'Gwangmyeong', 'Osong', 'Daejeon', 'Gimcheon-Gumi', 'Dongdaegu', 'Gyeongju', 'Busan']",2.7018579234972684,162.1114754098361,2 hr 42 min
+"['Seoul', 'Gwangmyeong', 'Cheonan-Asan', 'Daejeon', 'Dongdaegu', 'Gyeongju', 'Ulsan (Tongdosa)', 'Busan']",2.7018579234972684,162.1114754098361,2 hr 42 min
+"['Seoul', 'Gwangmyeong', 'Cheonan-Asan', 'Daejeon', 'Gimcheon-Gumi', 'Dongdaegu', 'Ulsan (Tongdosa)', 'Busan']",2.701857923497268,162.1114754098361,2 hr 42 min
+"['Seoul', 'Gwangmyeong', 'Cheonan-Asan', 'Daejeon', 'Gimcheon-Gumi', 'Dongdaegu', 'Gyeongju', 'Busan']",2.7018579234972684,162.1114754098361,2 hr 42 min
+"['Seoul', 'Gwangmyeong', 'Cheonan-Asan', 'Osong', 'Daejeon', 'Dongdaegu', 'Ulsan (Tongdosa)', 'Busan']",2.701857923497268,162.1114754098361,2 hr 42 min
+"['Seoul', 'Gwangmyeong', 'Cheonan-Asan', 'Osong', 'Daejeon', 'Dongdaegu', 'Gyeongju', 'Busan']",2.7018579234972684,162.1114754098361,2 hr 42 min
+"['Seoul', 'Gwangmyeong', 'Cheonan-Asan', 'Osong', 'Daejeon', 'Gimcheon-Gumi', 'Dongdaegu', 'Busan']",2.701857923497268,162.1114754098361,2 hr 42 min
+"['Seoul', 'Cheonan-Asan', 'Osong', 'Daejeon', 'Gimcheon-Gumi', 'Dongdaegu', 'Gyeongju', 'Ulsan (Tongdosa)', 'Busan']",2.8185245901639346,169.1114754098361,2 hr 49 min
+"['Seoul', 'Gwangmyeong', 'Osong', 'Daejeon', 'Gimcheon-Gumi', 'Dongdaegu', 'Gyeongju', 'Ulsan (Tongdosa)', 'Busan']",2.8185245901639346,169.1114754098361,2 hr 49 min
+"['Seoul', 'Gwangmyeong', 'Cheonan-Asan', 'Daejeon', 'Gimcheon-Gumi', 'Dongdaegu', 'Gyeongju', 'Ulsan (Tongdosa)', 'Busan']",2.8185245901639346,169.1114754098361,2 hr 49 min
+"['Seoul', 'Gwangmyeong', 'Cheonan-Asan', 'Osong', 'Daejeon', 'Dongdaegu', 'Gyeongju', 'Ulsan (Tongdosa)', 'Busan']",2.8185245901639346,169.1114754098361,2 hr 49 min
+"['Seoul', 'Gwangmyeong', 'Cheonan-Asan', 'Osong', 'Daejeon', 'Gimcheon-Gumi', 'Dongdaegu', 'Ulsan (Tongdosa)', 'Busan']",2.8185245901639346,169.1114754098361,2 hr 49 min
+"['Seoul', 'Gwangmyeong', 'Cheonan-Asan', 'Osong', 'Daejeon', 'Gimcheon-Gumi', 'Dongdaegu', 'Gyeongju', 'Busan']",2.8185245901639346,169.1114754098361,2 hr 49 min
+"['Seoul', 'Gwangmyeong', 'Cheonan-Asan', 'Osong', 'Daejeon', 'Gimcheon-Gumi', 'Dongdaegu', 'Gyeongju', 'Ulsan (Tongdosa)', 'Busan']",2.935191256830602,176.11147540983612,2 hr 56 min
